@@ -1,2 +1,2 @@
 # ZKConfig
-Zookeeper Config Server Implmentation
+Zookeeper Config Server Implementation
